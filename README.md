@@ -1,7 +1,5 @@
 # php-and-sql-task--2
 
-Task-2 of the ApexPlanet internship: A simple PHP & MySQL CRUD application demonstrating database connectivity and data operations. COMPANY:APEXPLANET SOFTWARE PVT.LTD.
-
 COMPANY:APEXPLANET SOFTWARE PVT.LTD.
 
 NAME:VANKAYALAPATI SOWMYA
@@ -35,4 +33,5 @@ Login with registered credentials
 Access dashboard (CRUD operations)
 Add, view, edit, and delete records
 Logout securely
-Demo Vide
+Demo Video
+https://www.linkedin.com/posts/sowmya-vankayalapati-314514302_apexplanet-internship-crud-activity-7409227824680599553-I-og?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAE1RicABgxvjrq4Y132CGtTqCwZetrNwuO8&utm_campaign=copy_link
